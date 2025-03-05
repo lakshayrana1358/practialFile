@@ -1,6 +1,7 @@
 How to use push and pull operation
 
 
-----------GITHUB INTERFACE------------
+----------CHANGES IN REMOTE DIRECTORY---------------
 
-Making changes in the github interface.
+
+Making changes in the remote directory.
